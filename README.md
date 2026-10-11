@@ -29,6 +29,10 @@ This is a free sample of the **C Data Structures & Algorithms Kit**, which has 1
 
 **Full kit:** https://payhip.com/b/djq5l
 
+**Also free:** [C Pointers in One Page](https://payhip.com/b/8eMNa), a printable A4 cheat sheet whose examples were all compiled and checked.
+
+**C and C++ bundle** (data structures kit + C++ OOP projects + printable cheat sheets): https://payhip.com/b/aBFfK
+
 ## License
 
 MIT. See `LICENSE`. The full kit is sold under a separate single-user license.
